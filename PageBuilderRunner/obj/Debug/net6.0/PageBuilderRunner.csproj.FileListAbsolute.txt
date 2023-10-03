@@ -13,3 +13,5 @@ G:\开发中项目\repos\PageBuilderRunner\PageBuilderRunner\obj\Debug\net6.0\re
 G:\开发中项目\repos\PageBuilderRunner\PageBuilderRunner\obj\Debug\net6.0\PageBuilderRunner.pdb
 G:\开发中项目\repos\PageBuilderRunner\PageBuilderRunner\obj\Debug\net6.0\PageBuilderRunner.genruntimeconfig.cache
 G:\开发中项目\repos\PageBuilderRunner\PageBuilderRunner\obj\Debug\net6.0\ref\PageBuilderRunner.dll
+G:\开发中项目\repos\PageBuilderRunner\PageBuilderRunner\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\开发中项目\repos\PageBuilderRunner\PageBuilderRunner\obj\Debug\net6.0\PageBuilderRunner.csproj.CopyComplete

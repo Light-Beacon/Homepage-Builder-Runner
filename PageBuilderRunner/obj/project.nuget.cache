@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JErU8Eq1S/fqX+UbLq0jITARKmTgnbSdPw5N5ySd3FSRKx3v9kpBK0a608Te+ZH595VT2cu4iY04EWAeUmKz5g==",
+  "dgSpecHash": "skxrRQVHCMM5J00QqGc7WL4BcnIrjj0qCan70mqabMvs7E9ecQSM6VcuYu4Bpdat+2IfAOjBpZsqF70WROAVNQ==",
   "success": true,
   "projectFilePath": "G:\\开发中项目\\repos\\PageBuilderRunner\\PageBuilderRunner\\PageBuilderRunner.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\26826\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
